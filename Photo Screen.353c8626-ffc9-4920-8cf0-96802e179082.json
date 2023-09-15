@@ -30,7 +30,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(185, 214, 250, 1)"
+            "backgroundColor": "rgba(250, 205, 185, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -53,7 +53,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(185, 214, 250, 1)"
+        "BackgroundColor": "rgba(250, 205, 185, 1)"
     },
     "children": [
         {
